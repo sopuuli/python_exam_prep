@@ -13,3 +13,4 @@ __pycache__/
 
 # Dependency lock file
 uv.lock
+ipynb_checkpoints/README-checkpoint.md
